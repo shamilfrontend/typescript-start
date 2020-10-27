@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cb5db97-5acb-49f6-8c3b-1428be7339c8" name="Default Changelist" comment="" />
+    <list default="true" id="7cb5db97-5acb-49f6-8c3b-1428be7339c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jTlvSeu3CzDdguaQ6xkiiwmbMO" />
   <component name="ProjectViewState">
@@ -30,6 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603836192535</updated>
       <workItem from="1603836193616" duration="1109000" />
+      <workItem from="1603837668081" duration="75000" />
     </task>
     <servers />
   </component>
@@ -40,5 +46,11 @@
         <option value="$PROJECT_DIR$/1.types.js" />
       </list>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="325" y="215" key="IDE.errors.dialog" timestamp="1603837703246">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="325" y="215" key="IDE.errors.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1603837703246" />
   </component>
 </project>
